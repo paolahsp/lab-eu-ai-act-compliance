@@ -21,3 +21,7 @@ This repository contains everything you need for this lab.
 - Keep this repository scoped to this lab only — no unrelated projects or personal files.
 - Use clear, descriptive filenames.
 - Remove secrets, API keys, and tokens before committing.
+
+## Student submission
+
+- [`EU_AI_Act_Approval_Pack_Paola_Hintze.md`](./EU_AI_Act_Approval_Pack_Paola_Hintze.md) — Paola Hintze's lab submission, including the private answer key, partner-facing briefs, consulting review, approval pack, client debrief, and high-risk implementation roadmap.
